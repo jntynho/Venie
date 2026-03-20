@@ -1,0 +1,7 @@
+{
+  "name": "Veni 1.5",
+  "description": "A high-performance, media-heavy link and actor management vault with advanced scroll restoration and smooth UI transitions.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
